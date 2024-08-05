@@ -1,6 +1,6 @@
 <img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" />
 
-## Hello, I'm Do Trong Khanh - aka **Karhdo**
+## Hello, I'm Khai Van.
 
 - 💻 Check out my blog at **[Comming Soon!]**
 - 👨‍🎓 Student graduated from [University of Information Technology.](https://www.uit.edu.vn/)
