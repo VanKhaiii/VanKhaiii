@@ -1,4 +1,4 @@
-<img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" />
+<img alt="GIF" align="right" src="https://giphy.com/gifs/computer-funny-cute-POU01YSFVn8zK" width="350px" height="230" />
 
 ## Hello, I'm Khai Van.
 
